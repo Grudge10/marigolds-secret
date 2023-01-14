@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="Explore the rich world of Marigold's Secret with our website. Learn about the lore and world-building of the world. Join our community and contribute to improve the documentation.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
