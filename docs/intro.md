@@ -2,46 +2,18 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+We are excited to provide you with all the information you need to fully immerse yourself in our roleplaying experience. Our documentation is designed to be easy to navigate and understand, and is organized into different sections to help you find the information you need quickly.
 
-## Getting Started
+:::caution WIP
 
-Get started by **creating a new site**.
+Please note that as our website has just been deployed, some information may be incomplete or missing. We apologize for any inconvenience this may cause and appreciate your understanding as we work to improve and update the site.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+:::
 
-### What you'll need
+:::note
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+If you come across any inaccuracies or errors on the website, please let the staff team know by reaching out to them in the `Suggestions` channel. Your feedback helps us keep the information accurate and up-to-date. Thank you for your assistance.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+:::
