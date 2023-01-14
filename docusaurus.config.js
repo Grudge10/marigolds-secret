@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Marigold's Secret Library",
-  tagline: 'where lore is created',
+  tagline: 'Where lore is created',
   url: 'https://marigolds-secret.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
