@@ -60,7 +60,7 @@ const config = {
         title: "Marigold's Secret",
         logo: {
           alt: "Marigold's Secret Logo",
-          src: 'img/logo.svg',
+          src: 'img/apple-touch-icon.png',
         },
         items: [
           {
