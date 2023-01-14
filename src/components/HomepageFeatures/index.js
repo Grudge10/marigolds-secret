@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'What Is This?',
+    Svg: require('@site/static/img/undraw_reading_time_re_phf7.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This is the documentation website for a medieval fantasy roleplay server on Discord. It serves as a comprehensive resource for members, providing information on the server's lore and world-building.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Why Does This Exist?',
+    Svg: require('@site/static/img/undraw_bibliophile_re_xarc.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        This website exists to provide members with a central location to find all the information they need to fully immerse themselves in the world. It also serves as a reference for members, providing them with the tools they need to create engaging and memorable role-playing experiences.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'How Can I Contribute?',
+    Svg: require('@site/static/img/undraw_writer_q06d.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This documentation website welcomes community contributions, whether it be in the form of submitting content, correcting errors or providing feedback. Joining the team of lore writers is also an option. To contribute, reach out to the server's staff via the <code>suggestions</code> channel.
       </>
     ),
   },
